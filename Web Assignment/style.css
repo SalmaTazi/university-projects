@@ -1,0 +1,32 @@
+H1 {
+    font-family: garamond;
+    font-size: 36px;
+    background: hsl(245, 86%, 20%);
+    color: rgb(246, 244, 244);
+ }
+ 
+ H2 {
+    font-family: garamond;
+    font-size: 20px;
+    background: #2d3a73;
+    color: rgb(255, 255, 255);
+ }
+ 
+ P {
+    font-family:monospace;
+    font-size: 16px;
+    background:  rgba(105, 160, 228, 0.739);
+    color: navy;
+ }
+ body {
+    font-family:monospace;
+    background-color: rgba(105, 160, 228, 0.739);
+ }
+ ul,ol {
+    font-family:monospace;
+    color:  hsl(245, 86%, 20%);
+ }
+ :link {
+    font-family:monospace;
+    color: rgb(75, 93, 121);
+ }
